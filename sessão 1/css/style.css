@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+    width: 80%;
+    margin-bottom:56px;
+}
+
+
+h1{
+    color:black ;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background-color:rgb(248, 225, 225);
+    text-align: center;
+    margin-bottom: 0;
+}
+
+ p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+
+.info{
+    text-align: center;
+}
+
+.brenda {
+    margin-top: 0;
+    background-color: rgb(243, 211, 211);
+}
+
+.menu{
+    background-color:white;
+    text-align: right;
+}
+
+.menu li {
+    list-style: none;
+    background-color:white;
+    display: inline-block;
+    padding: 0px;
+
+}
+
+.menu a{
+    background-color: rgb(248, 225, 225);
+    padding: 16px;
+    display: block;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    background-color: rgb(243, 241, 206);
+   
+}
+
+h2 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background-color:rgb(248, 225, 225);
+    border-bottom: 3px solid;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+h3{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    padding-left: 0px;
+}
+
+li{
+    list-style-position: inside;
+    font-size: 20px;
+}
